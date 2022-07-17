@@ -23,7 +23,8 @@ In hilly cities, users tend to use scooters to go uphill and then walk downhill.
      - Move scripts to Lambda.
 
 * Automate the pipeline
-      - used CloudWatch Events / EventBridge
+     - used CloudWatch Events / EventBridge
+
 
 >### API's
 
